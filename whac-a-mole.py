@@ -15,8 +15,8 @@ RED = [255, 0, 0]
 quitVar = True
 
 
-font = pygame.font.Font("./PressStart2P-Regular.ttf", 20)
-image = pygame.image.load("mole.png")
+font = pygame.font.Font("./assets/fonts/PressStart2P-Regular.ttf", 20)
+image = pygame.image.load("./assets/imgs/mole.png")
 rect = image.get_rect()
 
 points = 0
